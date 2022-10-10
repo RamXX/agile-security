@@ -82,10 +82,9 @@ _@ramirosalas_
 # Risk in Assumptions
 ![bg left:25%](https://d1fto35gcfffzn.cloudfront.net/images/og/topic-agile.jpg)
 
-All Agile frameworks and methodologies emphasize deep partnership with customers/stakeholders, but
-**Security** is not called out explicitly anywhere. 
+All Agile frameworks and methodologies emphasize deep partnership with customers/stakeholders, but sice **Security** is a non-functional requirement, it's not called out explicitly anywhere. 
 
-**It's _expected_ it will emerge
+**It's _expected_ it will naturally emerge
 as a requirement**
 
 ---
@@ -275,7 +274,7 @@ Include adversarial personas in design exercises.
 ||Einstein|Smart attacker|
 ||Rockefeller|Rich attacker|
 ||Klaus|Inside spy|
-||Vlad|Nation state attacker|
+||Vlad|Nation-state attacker|
 
 ---
 # Agile and Systems Architecture
